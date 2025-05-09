@@ -1,0 +1,6 @@
+<svg id="Layer_1" xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 256 256" style="background-color: black;" xml:space="preserve">
+    <text x="-10" y="128" dominant-baseline="central"  font-size="80" font-family="Fira Code"
+          style="fill: purple; font-weight: bold; text-wrap: nowrap; display: flex; flex-direction: row; ">
+        <tspan style="fill: white">::</tspan><tspan>fun</tspan></text>
+</svg>
